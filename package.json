@@ -1,0 +1,21 @@
+{
+  "name": "express-nock",
+  "version": "0.1.0",
+  "description": "Nock integration for Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:spring-media/express-nock.git"
+  },
+  "author": "Sebastian Herrlinger",
+  "license": "MIT",
+  "peerDependencies": {
+    "nock": "^10.0.1"
+  },
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  }
+}
